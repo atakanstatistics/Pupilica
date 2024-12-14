@@ -1,0 +1,1 @@
+Pupilica Yapay Zekâ Bootcamp
