@@ -1,1 +1,1 @@
-Pupilica Yapay Zekâ Bootcamp
+# Pupilica Yapay Zekâ Bootcamp
